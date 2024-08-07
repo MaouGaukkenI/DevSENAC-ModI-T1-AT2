@@ -75,7 +75,7 @@ This activity aims to study and analyze different software development methodolo
 
 The study of waterfall, Kanban, and Scrum methodologies revealed that the Scrum methodology is the most suitable for the development of the library project, as it best meets the presented requirements and has a workflow that facilitates the organization and delivery of incremental and iterative functionalities.
 
-# Projeto de Biblioteca - Atividade 2: Estudo das Metodologias de Desenvolvimento de Software
+# Projeto de Biblioteca - Atividade 2: Estudo das Metodologias de Desenvolvimento de Software-Traduzido:
 
 ## Descrição da Atividade
 
